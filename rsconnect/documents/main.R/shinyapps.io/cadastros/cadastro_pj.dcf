@@ -1,0 +1,13 @@
+name: cadastro_pj
+title: cadastro_pj
+username:
+account: cadastros
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5635535
+bundleId: 5577689
+url: https://cadastros.shinyapps.io/cadastro_pj/
+when: 1644851074.63818
+lastSyncTime: 1644851074.63818
+asMultiple: FALSE
+asStatic: FALSE
