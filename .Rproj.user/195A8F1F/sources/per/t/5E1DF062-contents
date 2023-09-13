@@ -126,7 +126,7 @@ server <- function(session, input, output) {
     },
     content = function(file) {
       
-      doc <- officer::read_docx("www/Ficha_PJ.docx")
+      doc <- officer::read_docx("www/Ficha_PJ_2.docx")
       
       out <- doc %>% 
         officer::body_replace_all_text("RZPJSOCIAL", verifica_conteudo(input$razaosocial)) %>% 
